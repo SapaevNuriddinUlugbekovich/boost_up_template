@@ -1,3 +1,2 @@
-<h1 align="center" >Hi 👋, I'm Nuriddin </h1>
-<h3 align="center"> boost up website </h3>
-
+<h1 align="center"> boost up website </h1>
+<h1 align="center"> only desktop version </h1>
